@@ -114,6 +114,10 @@ class CanvasEditorView : RelativeLayout{
         mStickerView.visibility = View.GONE
     }
 
+    fun tralallaa() {
+
+    }
+
     fun setListener(listener: CanvasEditorListener) {
         mListener = listener
     }
